@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>metridoc-core</artifactId>
+  <version>0.53-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.53-SNAPSHOT</version>
+      <version>0.53</version>
+      <version>0.54-SNAPSHOT</version>
+      <version>0.54</version>
+      <version>0.54.1</version>
+      <version>0.54.2</version>
+      <version>0.54.3</version>
+      <version>0.54.4-SNAPSHOT</version>
+      <version>0.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130524201311</lastUpdated>
+  </versioning>
+</metadata>
